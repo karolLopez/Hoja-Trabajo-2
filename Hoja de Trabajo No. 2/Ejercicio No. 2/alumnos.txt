@@ -1,0 +1,3 @@
+9941	-19-10163	Karol	0
+58	Karol	Lopez	100
+5	Stephanie	Herrera	50
